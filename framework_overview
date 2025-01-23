@@ -1,5 +1,3 @@
-### MaterialShift Framework - High-Level Overview
-
 ```mermaid
 graph TD
     A[Discover] --> B[Create]

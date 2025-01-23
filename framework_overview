@@ -1,0 +1,23 @@
+### MaterialShift Framework - High-Level Overview
+
+```mermaid
+graph TD
+    A[Discover] --> B[Create]
+    B --> C[Engineer]
+    C --> D[Implement]
+    C --> B  %% Loop back from Engineer to Create
+    
+    %% Foundational Elements
+    Share[Share] --- A
+    Share --- B
+    Share --- C
+    Share --- D
+
+    Grow[Grow] --- A
+    Grow --- B
+    Grow --- C
+    Grow --- D
+
+    %% Styling for foundational elements
+    style Share fill:#f9f,stroke:#333,stroke-width:2px
+    style Grow fill:#f9f,stroke:#333,stroke-width:2px

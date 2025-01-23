@@ -1,4 +1,4 @@
-Framework
+**Framework**
 
 #I'll replace this with a mermaid diagram soon. For the moment this is very high level & will get more concrete with actions and learnings from the industry soon.
 
